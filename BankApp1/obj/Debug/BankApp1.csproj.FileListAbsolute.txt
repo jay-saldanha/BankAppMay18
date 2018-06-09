@@ -1,0 +1,7 @@
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\bin\Debug\BankApp1.exe.config
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\bin\Debug\BankApp1.exe
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\bin\Debug\BankApp1.pdb
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\obj\Debug\BankApp1.csprojAssemblyReference.cache
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\obj\Debug\BankApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\obj\Debug\BankApp1.exe
+C:\Users\Jayana\Desktop\Github2\BankAppMay18\BankApp1\obj\Debug\BankApp1.pdb

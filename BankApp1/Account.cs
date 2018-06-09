@@ -11,6 +11,7 @@ namespace BankApp1
     /// </summary>
     class Account
     {
+        private static int lastAccountNumber = 0;
         #region Properties
         /// <summary>
         /// Unique Account Number for the classs
@@ -33,6 +34,14 @@ namespace BankApp1
         /// </summary>
         public DateTime CreatedDate { get; set; }
         #endregion
+        public Account()
+        {
+            //lastAccountNumber += 1;
+            //AccountNumber = lastAccountNumber;
+            //++ is a preincrement so it adds first and then asssigns the value
+            AccountNumber = ++lastAccountNumber;
+            CreatedDate = DateTime.UtcNow;
+        }
         #region Methods
         /// <summary>
         /// Deposit money into your account
